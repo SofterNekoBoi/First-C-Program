@@ -10,7 +10,7 @@ int main() {
 		cout << "I really don't care!" << endl;
 	}
 	else if (fuckstogive > 0) {
-		cout << "I guess I do care..."
+		cout << "I guess I do care...";
 	}
 	return 0;
 }
