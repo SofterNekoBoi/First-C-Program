@@ -11,6 +11,8 @@ int main() {
 	}
 	else if (fuckstogive > 0) {
 		cout << "I guess I do care...";
+	} else if (fuckstogive < 0) {
+		cout << "I give negative fucks!" << endl;
 	}
 	return 0;
 }
